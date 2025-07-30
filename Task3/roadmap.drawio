@@ -1,0 +1,55 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/136.0.0.0 YaBrowser/25.6.0.0 Safari/537.36" version="28.0.7">
+  <diagram name="Roadmap" id="Fr3JYueR57yQDBQ0BN9L">
+    <mxGraphModel dx="10785" dy="9889" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="3300" pageHeight="2339" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="k3ZoL2wd72bWYXdqHJJj-9" value="Q1" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2510" y="-2200" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k3ZoL2wd72bWYXdqHJJj-10" value="Q2" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2020" y="-2200" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k3ZoL2wd72bWYXdqHJJj-11" value="Q3&lt;div&gt;&lt;br&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-1530" y="-2200" width="460" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="k3ZoL2wd72bWYXdqHJJj-12" value="DevOps" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2730" y="-2120" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="k3ZoL2wd72bWYXdqHJJj-14" value="Разработка платформы" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2730" y="-1980" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="k3ZoL2wd72bWYXdqHJJj-15" value="Команды разработки доменов" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-2730" y="-1840" width="210" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="k3ZoL2wd72bWYXdqHJJj-16" value="Развёртывание DataMesh и Kafka" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-2510" y="-2120" width="460" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="k3ZoL2wd72bWYXdqHJJj-17" value="Внедрение DataMesh и Kafka" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-2020" y="-1840" width="470" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="k3ZoL2wd72bWYXdqHJJj-19" value="Разработка интеграций с новыми интсрументами" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-2510" y="-1980" width="470" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="k3ZoL2wd72bWYXdqHJJj-20" value="Развёртывание инструментов мониторинга и систем оповещения,&lt;br&gt;сопровождение разработки внедрений" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-2020" y="-2120" width="470" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="k3ZoL2wd72bWYXdqHJJj-21" value="Дальнейшая разработка, поддержка и эксплуатация новых систем" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-1530" y="-1840" width="470" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="k3ZoL2wd72bWYXdqHJJj-22" value="Сопровождение разработки внедрений" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-2020" y="-1980" width="470" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="k3ZoL2wd72bWYXdqHJJj-23" value="Составление плана и подготовка плана архитектурных изменений" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-2510" y="-1840" width="470" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="k3ZoL2wd72bWYXdqHJJj-24" value="Поддержка" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-1530" y="-2120" width="470" height="120" as="geometry" />
+        </mxCell>
+        <mxCell id="k3ZoL2wd72bWYXdqHJJj-25" value="Поддержка" style="rounded=0;whiteSpace=wrap;html=1;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
+          <mxGeometry x="-1530" y="-1980" width="470" height="120" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
